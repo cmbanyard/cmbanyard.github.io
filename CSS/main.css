@@ -39,8 +39,10 @@ footer {
 }
 
 div.center{
-  position: absolute;
-  margin: 0 auto;
+  position: relative;
+  width: 80%;
+  margin: 0 auto 0 auto;
+  max-width: 1400px;
 }
 
 ul.posts {
