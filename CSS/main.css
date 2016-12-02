@@ -36,7 +36,7 @@ footer {
 }
 
 div.center{
-  align-items: center;
+  margin: auto;
 }
 
 ul.posts {
