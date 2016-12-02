@@ -33,11 +33,8 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-}
-
-ul{
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ul.posts {
