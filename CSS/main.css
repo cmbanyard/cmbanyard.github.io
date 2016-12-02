@@ -1,6 +1,6 @@
 body {
     position: relative;
-    width: 80%;
+    width: 70%;
     margin: 0 auto 0 auto;
     max-width: 1400px;
     background-color: #1D1F21;
@@ -38,10 +38,6 @@ footer {
 }
 
 div.center{
-  position: relative;
-  width: 80%;
-  margin: 0 auto 0 auto;
-  max-width: 1400px;
 }
 
 ul.posts {
