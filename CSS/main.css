@@ -44,13 +44,16 @@ ul.posts li {
     list-style: none;
 }
 
-img.githubLink {
+a.githubLink {
   width: 25px;
   height: 25px;
-  background: url('/img/GitHub-Over.png') bottom;
+  background: url('/img/GitHub.png') bottom;
   background-size: 25px 25px;
 }
 
 img.githubLink:hover{
   background-position: 0 0;
+  width: 25px;
+  height: 25px;
+  background: url('/img/GitHub-Over.png') bottom;
 }
