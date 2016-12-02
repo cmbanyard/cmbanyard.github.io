@@ -75,3 +75,17 @@ img.emailLink:hover{
   background: url('/img/mail-over.png') bottom;
   background-size: 25px 25px;
 }
+
+img.flikrLink{
+  width: 25px;
+  height: 25px;
+  background: url('/img/flikr.png') bottom;
+  background-size: 25px 25px;
+}
+
+img.flikrLink:hover{
+  width: 25px;
+  height: 25px;
+  background: url('/img/flikr-over.png') bottom;
+  background-size: 25px 25px;
+}
