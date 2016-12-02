@@ -44,14 +44,14 @@ ul.posts li {
     list-style: none;
 }
 
-a.githubLink {
+img.githubLink {
   width: 25px;
   height: 25px;
   background: url('/img/GitHub.png') bottom;
   background-size: 25px 25px;
 }
 
-a.githubLink:hover{
+img.githubLink:hover{
   background-position: 0 0;
   width: 25px;
   height: 25px;
