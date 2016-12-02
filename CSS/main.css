@@ -51,7 +51,7 @@ a.githubLink {
   background-size: 25px 25px;
 }
 
-img.githubLink:hover{
+a.githubLink:hover{
   background-position: 0 0;
   width: 25px;
   height: 25px;
