@@ -49,12 +49,12 @@ img.githubLink {
   height: 25px;
   background: url('/img/GitHub.png') bottom;
   background-size: 25px 25px;
+  border: none;
 }
 
 img.githubLink:hover{
   background-position: 0 0;
-  width: 25px;
-  height: 25px;
   background: url('/img/GitHub-Over.png') bottom;
+  background-size: 25px 25px;
 
 }
