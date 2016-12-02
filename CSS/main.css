@@ -59,14 +59,14 @@ img.githubLink:hover{
 
 }
 
-img.mailLink{
+img.emailLink{
   width: 25px;
   height: 25px;
   background: url('/img/mail.png') bottom;
   background-size: 25px 25px;
 }
 
-img.mailLink:hover{
+img.emailLink:hover{
   width: 25px;
   height: 25px;
   background: url('/img/mail-over.png') bottom;
