@@ -49,7 +49,6 @@ img.githubLink {
   height: 25px;
   background: url('/img/GitHub.png') bottom;
   background-size: 25px 25px;
-  border: 0;
 }
 
 img.githubLink:hover{
@@ -58,4 +57,18 @@ img.githubLink:hover{
   background: url('/img/GitHub-Over.png') bottom;
   background-size: 25px 25px;
 
+}
+
+img.mailLink{
+  width: 25px;
+  height: 25px;
+  background: url('/img/mail.png') bottom;
+  background-size: 25px 25px;
+}
+
+img.mailLink:hover{
+  width: 25px;
+  height: 25px;
+  background: url('/img/mail-over.png') bottom;
+  background-size: 25px 25px;
 }
