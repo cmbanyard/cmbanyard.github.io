@@ -43,3 +43,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+githubLink {
+  width: 25px;
+  height: 25px;
+}
