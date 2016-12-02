@@ -52,6 +52,7 @@ img.githubLink {
 }
 
 img.githubLink:hover{
-  background: url('/img/GitHub-Over.png') bottom;
   background-position: 0 0;
+  background: url('/img/GitHub-Over.png') bottom;
+
 }
