@@ -44,7 +44,7 @@ ul.posts li {
     list-style: none;
 }
 
-githubLink {
+.githubLink {
   width: 25px;
   height: 25px;
 }
