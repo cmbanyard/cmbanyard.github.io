@@ -44,7 +44,7 @@ ul.posts li {
     list-style: none;
 }
 
-div.githubLink {
+img.githubLink {
   width: 25px;
   height: 25px;
   background: url('/img/GitHub.png') bottom;
@@ -52,7 +52,7 @@ div.githubLink {
   border: 0;
 }
 
-div.githubLink:hover{
+img.githubLink:hover{
   width: 25px;
   height: 25px;
   background: url('/img/GitHub-Over.png') bottom;
