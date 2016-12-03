@@ -1,0 +1,83 @@
+body {
+    position: relative;
+    width: 70%;
+    margin: 0 auto 0 auto;
+    max-width: 1400px;
+    background-color: #1D1F21;
+}
+nav ul, footer ul {
+    font-family: 'Lato';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display:inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
+footer {
+    text-align: center;
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts {
+    margin: 0 auto;
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+img.githubLink {
+  width: 25px;
+  height: 25px;
+  background: url('/img/GitHub.png') bottom;
+  background-size: 25px 25px;
+}
+
+img.githubLink:hover{
+  width: 25px;
+  height: 25px;
+  background: url('/img/GitHub-Over.png') bottom;
+  background-size: 25px 25px;
+
+}
+
+img.emailLink{
+  width: 25px;
+  height: 25px;
+  background: url('/img/mail.png') bottom;
+  background-size: 25px 25px;
+}
+
+img.emailLink:hover{
+  width: 25px;
+  height: 25px;
+  background: url('/img/mail-over.png') bottom;
+  background-size: 25px 25px;
+}
+
+img.flikrLink{
+  width: 25px;
+  height: 25px;
+  background: url('/img/flikr.png') bottom;
+  background-size: 25px 25px;
+}
+
+img.flikrLink:hover{
+  width: 25px;
+  height: 25px;
+  background: url('/img/flikr-over.png') bottom;
+  background-size: 25px 25px;
+}
