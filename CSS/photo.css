@@ -28,6 +28,10 @@ a:hover {
   text-align: center;
 }
 
+.mainPhoto li{
+  margin-left: 20px;
+}
+
 .mainPhoto img{
   width: 225.3px;
   height: 150px;
