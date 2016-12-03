@@ -25,12 +25,16 @@ a:hover {
 
 .mainPhoto{
   text-align: center;
+  width: 90%;
 }
 
-.firstImg {
+img.mainPhoto{
   width: 362px;
   height: 241px;
+  border-radius: 8px;
 }
+
+
 
 footer {
     text-align: center;
