@@ -95,3 +95,17 @@ img.flikrLink:hover{
   background: url('/img/flikr-over.png') bottom;
   background-size: 25px 25px;
 }
+
+img.twitterLink{
+  width: 25px;
+  height: 25px;
+  background: url('/img/twitter.png') bottom;
+  background-size: 25px 25px;
+}
+
+img.twitterLink:hover{
+  width: 25px;
+  height: 25px;
+  background: url('/img/twitter-over.png') bottom;
+  background-size: 25px 25px;
+}
